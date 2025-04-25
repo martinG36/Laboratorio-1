@@ -6,3 +6,5 @@ Trabajo con la interfaz visual
 
 Se está desarrollando la versión 3
 Se está desarrollando la versión 4
+
+Esta línea es para la versión 6
