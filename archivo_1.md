@@ -5,3 +5,5 @@ Esta es la línea 4
 Esta es la línea 5
 
 Esta es la versión 4
+
+Esta es la versión 6
